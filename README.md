@@ -94,5 +94,4 @@ The project includes a `Test_Report.md` file, which contains a detailed test rep
 - Fares Hazem (ID: 20221443356)
 - Ali Ashraf (ID: 2103106)
 - Ahmed Dawood (ID: 20221454408)
-- Ahmed Ashraf (ID: 2103134)
 - Ahmed Yousri (ID: 2103108)
