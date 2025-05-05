@@ -3,6 +3,10 @@
 ## Project Overview 📚
 This project implements a Retrieval-Augmented Generation (RAG) chatbot designed to answer user questions using information from real-world websites and documents in the domain of **mental health**. The chatbot combines document retrieval with a generative model to provide accurate and context-aware responses. Unlike existing frameworks like LangChain, this project is built from scratch to demonstrate a deeper understanding of the RAG architecture.
 
+## Project Presentation 🎥
+
+You can view the project presentation here: [Mental Health Chatbot Presentation (Canva)](https://www.canva.com/design/DAGmk_75QPE/vLpF77pP7h-MCkuCiPbKMw/view?utm_content=DAGmk_75QPE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6cf34f083a)
+
 ## Project Goal 🎯
 The goal of this project is to create a chatbot that:
 - 🧠 Collects and understands domain-specific content.
@@ -95,3 +99,4 @@ The project includes a `Test_Report.md` file, which contains a detailed test rep
 - Ali Ashraf (ID: 2103106)
 - Ahmed Dawood (ID: 20221454408)
 - Ahmed Yousri (ID: 2103108)
+- Khalid Mansour (ID: 20221320444)
